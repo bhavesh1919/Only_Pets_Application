@@ -1,0 +1,2 @@
+- [x] Update api_service.dart: Replace 'your-ip' with '10.228.83.43' and correct path to '/api/products.php'
+- [x] Update productScreen.dart: Remove erroneous line, rename class to ProductScreen, use p.img directly for image, switch to GridView, add error handling
